@@ -1,0 +1,122 @@
+
+<br><br><br>
+<div class="container">
+    <h2>Claims</h2>
+    <button class="btn add-btn" (click)="openModal()">Add New Reimbursement</button>
+    <table class="claims-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Reimbursement Type</th>
+                <th>Requested Value</th>
+                <th>Approved Value</th>
+                <th>Currency</th>
+                <th>Requested Phase</th>
+                <th>Receipt Attached</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let claim of claims">
+                <td>{{ claim.date }}</td>
+                <td>{{ claim.typeName }} </td>
+                <td>{{ claim.requestedValue }} </td>
+                <td>{{ claim.approvedValue }}</td>
+                <td>{{ claim.currencyName }}</td>
+                @if(claim.proccessed){<td>proccessed</td>}
+                @if(!claim.proccessed ){<td>not proccessed</td>}
+                @if(claim.image){<td>yes</td>}
+                @if(claim.image.length==0){<td>no</td>}
+                <td>@if(!claim.proccessed){
+                    <button class="btn edit-btn" (click)="loadData(claim.id ?? 1)">Edit</button>
+                    <button class="btn delete-btn" (click)="deleteClaim(claim.id ?? 1)">Delete</button>
+                }</td>
+                
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal Form -->
+<div *ngIf="showModal" class="modal">
+    <div class="modal-content">
+        <span class="close" (click)="closeModal()">&times;</span>
+        <h3>Add New Reimbursement</h3>
+        <form [formGroup]="claimForm" (ngSubmit)="createClaim()" >
+            <label for="date">Date</label>
+            <input id="date" formControlName="Date" type="date">
+            @if(claimForm.controls['Date'].invalid && (claimForm.controls['Date'].touched || claimForm.controls['Date'].dirty)){
+                @if (claimForm.controls['Date'].errors?.["required"]){
+                    <small>*date required</small>
+                }
+                
+            }
+            <label for="reimbursementType">Reimbursement Type</label>
+            <select id="reimbursementType" formControlName="Reimbursement_Type" (change)="onSelect($event)">
+                <option *ngFor="let type of types" [value]="type.id" [value]="type.id + '-' + type.name">{{ type.name}}</option>
+            </select>
+            @if(claimForm.controls['Reimbursement_Type'].invalid && (claimForm.controls['Reimbursement_Type'].touched || claimForm.controls['Reimbursement_Type'].dirty)){
+                @if (claimForm.controls['Reimbursement_Type'].errors?.["required"]){
+                    <small>*type required</small>
+                }
+                
+            }
+
+            <label for="requestedValue">Requested Value</label>
+            <input id="requestedValue" formControlName="Requested_Value" type="number">
+            @if(claimForm.controls['Requested_Value'].invalid && (claimForm.controls['Requested_Value'].touched || claimForm.controls['Requested_Value'].dirty)){
+                @if (claimForm.controls['Requested_Value'].errors?.["required"]){
+                    <small>*value required</small>
+                }
+            }
+
+            <label for="currency">Currency</label>
+            
+            <select id="currency" formControlName="Currency" (change)="onSelectCurrency($event)">
+                <option *ngFor="let currency of currencies" [value]="currency.id+'-'+currency.currencyCode">{{ currency.currencyCode}}</option>
+            </select>
+            @if(claimForm.controls['Currency'].invalid && (claimForm.controls['Currency'].touched || claimForm.controls['Currency'].dirty)){
+                @if (claimForm.controls['Currency'].errors?.["required"]){
+                    <small>*currency required</small>
+                }
+            }
+
+
+            <label for="image">Receipt Attached</label>
+            <input id="Imagehh" formControlName="Image" type="file">
+            
+            <button type="submit" class="btn save-btn">Save</button>
+        </form>
+    </div>
+</div>
+
+<div *ngIf="update" class="modal">
+    <div class="modal-content">
+        <span class="close" (click)="closeUpdate()">&times;</span>
+        <h3>Edit Reimbursement</h3>
+        <form [formGroup]="updateForm" (ngSubmit)="editClaim()" >
+            <label for="date">Date</label>
+            <input id="date" formControlName="date" type="date">
+
+            <label for="reimbursementType">Reimbursement Type</label>
+            <select id="reimbursementType" formControlName="typeId">
+                <option *ngFor="let type of types" [value]="type.id">{{ type.name}}</option>
+            </select>
+
+            <label for="requestedValue">Requested Value</label>
+            <input id="requestedValue" formControlName="requestedValue" type="number">
+
+            <label for="currency">Currency</label>
+            
+            <select id="currency" formControlName="currencyId">
+                <option *ngFor="let currency of currencies" [value]="currency.id">{{ currency.currencyCode}}</option>
+            </select>
+
+
+            <label for="image">Receipt Attached</label>
+            <input id="image" formControlName="image" type="file">
+
+            <button type="submit" class="btn save-btn">Save</button>
+        </form>
+    </div>
+</div>

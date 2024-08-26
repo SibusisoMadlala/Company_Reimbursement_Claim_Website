@@ -1,0 +1,185 @@
+<br><br><br>
+
+<div class="tabs">
+    <button class="tablinks" id="pendingButton" (click)="openPending()">Pending Claims</button>
+    <button class="tablinks" id="declineButton" (click)="openDeclined()">Declined Claims</button>
+    <button class="tablinks" id="approveButton" (click)="openApproved()">Approved Claims</button>
+    
+  </div>
+  <br><br>
+
+<div *ngIf="pending" class="container">
+    <h2>Pending Claims</h2>
+    <div class="filters">
+        <input 
+          type="text" 
+          class="search-input" 
+          placeholder="Search by Requester" 
+          [(ngModel)] = "pending_email"
+          
+            (ngModelChange)="filterPendingByEmail()"
+        />
+        
+    
+        <!-- Reimbursement Type Filter -->
+        <select 
+          class="filter-select" 
+          [(ngModel)]="type"
+          (ngModelChange)="filterByType()"
+          placeholder="filter reimbursement Types"
+        >
+          <option value="">All types</option>
+          <option *ngFor="let type of reimbursementTypes" [value]="type.name">{{ type.name }}</option>
+        </select>
+      </div>
+    <table class="claims-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Requested By</th>
+                <th>Reimbursement Type</th>
+                <th>Requested Value</th>
+                <th>Currency</th>
+                <th>Receipt Attached</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let claim of pendingFilterClaims">
+                <td>{{ claim.date }}</td>
+                <td>{{ claim.creator }} </td>
+                <td>{{ claim.typeName }} </td>
+                <td>{{ claim.requestedValue }}</td>
+                <td>{{ claim.currencyName }}</td>
+                <td>{{claim.image.length}}</td>
+                <td>
+                    <button class="btn edit-btn" (click)="declineClaim(claim.id ?? 1)">Decline</button>
+                    <button class="btn delete-btn" (click)="openModal(claim.id ?? 1)">Approve</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div *ngIf="declined" class="container">
+    <h2>Declined Claims</h2>
+    <div class="filters">
+        <input 
+          type="text" 
+          class="search-input" 
+          placeholder="Search by Requester Email" 
+          [(ngModel)] = "email"
+            (ngModelChange)="filterDeclinedByEmail()"
+        />
+    
+        <!-- Reimbursement Type Filter -->
+        <select 
+          class="filter-select" 
+          [(ngModel)]="declinedType"
+          (ngModelChange)="filterDeclinedByType()"
+        >
+          <option value="">All Types</option>
+          <option *ngFor="let type of reimbursementTypes" [value]="type.name">{{ type.name }}</option>
+        </select>
+      </div>
+    <table class="claims-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Requested By</th>
+                <th>Reimbursement Type</th>
+                <th>Requested Value</th>
+                <th>Currency</th>
+                <th>Receipt Attached</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let claim of filterClaims">
+                <td>{{ claim.date }}</td>
+                <td>{{ claim.creator }} </td>
+                <td>{{ claim.typeName }} </td>
+                <td>{{ claim.requestedValue }}</td>
+                <td>{{ claim.currencyName }}</td>
+                <td><img *ngIf="claim.image" [src]="claim.image" alt="Receipt Image" class="receipt-image"></td>
+               
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div *ngIf="approved" class="container">
+    <h2>Approved Claims</h2>
+    <div class="filters">
+        <input 
+          type="text" 
+          class="search-input" 
+          placeholder="Search by Requester" 
+          [(ngModel)] = "approve_email"
+          (ngModelChange)="filterApprovedByEmail()"
+        />
+    
+        <!-- Reimbursement Type Filter -->
+        <select 
+          class="filter-select"
+          [(ngModel)]="approvedType"
+          (ngModelChange)="filterApprovedByType()" 
+        >
+          <option value="">All Types</option>
+          <option *ngFor="let type of reimbursementTypes" [value]="type.name">{{ type.name }}</option>
+        </select>
+      </div>
+    <table class="claims-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Requested By</th>
+                <th>Reimbursement Type</th>
+                <th>Requested Value</th>
+                <th>Currency</th>
+                <th>Receipt Attached</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let claim of approveFilterClaims">
+                <td>{{ claim.date }}</td>
+                <td>{{ claim.creator }} </td>
+                <td>{{ claim.typeName }} </td>
+                <td>{{ claim.requestedValue }}</td>
+                <td>{{ claim.currencyName }}</td>
+                <td>{{ claim.image }}</td>
+               
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div *ngIf="analytics" class="container">
+  <app-analytics></app-analytics>
+</div>
+
+<div *ngIf="showModal" class="modal">
+    <div class="modal-content">
+        <span class="close" (click)="closeModal()">&times;</span>
+        <h3>Approval Infomation</h3>
+        <form [formGroup]="approveForm" (ngSubmit)="approveClaim()" >
+            <label for="approvedBy">Approved By</label>
+            <input id="approvedBy" formControlName="approvedBy" type="text">
+            @if (approveForm.controls['approvedBy'].errors?.["required"]){
+              <small>*approved By required</small>
+            }
+
+            <label for="approvedValue">Approved Value</label>
+            <input id="approvedValue" formControlName="approvedValue" type="number">
+            @if (approveForm.controls['approvedBValue'].errors?.["required"]){
+              <small>*approved value required</small>
+            }
+
+            <label for="approveNote">Approve Note</label>
+            <input id="approveNote" formControlName="approveNote" type="text">
+
+            <button type="submit" class="btn save-btn">Send</button>
+        </form>
+    </div>
+</div>

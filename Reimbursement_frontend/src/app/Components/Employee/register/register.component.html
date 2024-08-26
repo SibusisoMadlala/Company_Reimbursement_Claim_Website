@@ -1,0 +1,92 @@
+<form [formGroup] = "registerForm" (submit)="registerEmployee()">
+    <div class="formcontainer">
+
+        <div class="container">
+            <label for="full_name">Full Name</label>
+            <input type="text" id="full_name" formControlName="full_name">
+            @if(registerForm.controls['full_name'].invalid && (registerForm.controls['full_name'].touched || registerForm.controls['full_name'].dirty)){
+                @if (registerForm.controls['full_name'].errors?.["required"]){
+                    <small>*full name required</small>
+                }
+                
+            }
+        
+            <label for="pan-number">Pan Number</label>
+            <input type="text" id="pan-number" formControlName="pan_number" >
+            @if(registerForm.controls['pan_number'].invalid && (registerForm.controls['pan_number'].touched || registerForm.controls['pan_number'].dirty)){
+                @if (registerForm.controls['pan_number'].errors?.["required"]){
+                    <small>*pan number required</small>
+                }
+                @if (registerForm.controls['pan_number'].errors?.["pattern"]){
+                    <small>*incorrect format</small>
+                }
+                
+            }
+
+            <label for="bankId">Select your bank:</label>
+            <select id="bankId" formControlName="bankId">
+                <option *ngFor="let bank of banks" [value]="bank.id">{{ bank.bankName}}</option>
+            </select>
+            @if(registerForm.controls['bankId'].invalid && (registerForm.controls['bankId'].touched || registerForm.controls['bankId'].dirty)){
+                @if (registerForm.controls['bankId'].errors?.["required"]){
+                    <small>*bank required</small>
+                }
+                
+            }
+                        
+            <label for="account-number">Bank account number</label>
+            <input type="text" id="account-number" formControlName="bank_account_number" >
+            <small *ngIf="registerForm.controls['bank_account_number'].errors?.['invalidAlphanumeric']">passwords should match</small>
+            @if(registerForm.controls['bank_account_number'].invalid && (registerForm.controls['bank_account_number'].touched || registerForm.controls['bank_account_number'].dirty)){
+                @if (registerForm.controls['bank_account_number'].errors?.["required"]){
+                    <small>*bank account number required</small>
+                }
+                @if (registerForm.controls['bank_account_number'].errors?.["pattern"]){
+                    <small>*incorrect format</small>
+                }
+                
+            }
+        
+            <label for="email">Email</label>
+            <input type="email" id="email" formControlName="email" >
+            @if(registerForm.controls['email'].invalid && (registerForm.controls['email'].touched || registerForm.controls['email'].dirty)){
+                @if (registerForm.controls['email'].errors?.["required"]){
+                    <small>*email required</small>
+                }
+                @if (registerForm.controls['email'].errors?.["email"]){
+                    <small>*incorrect email format</small>
+                }
+            }
+            
+            <label for="password">Password</label>
+            <input type="password" id="password" formControlName="password" >
+            @if(registerForm.controls['password'].invalid && (registerForm.controls['password'].touched || registerForm.controls['password'].dirty)){
+                @if (registerForm.controls['password'].errors?.["required"]){
+                    <small>*password required</small>
+                }
+                @if (registerForm.controls['password'].errors?.["pattern"]){
+                    <small>*incorrect format</small>
+                }
+                
+            }
+            
+            
+        
+            <label for="confirm">Confirm Password</label>
+            <input type="password" id="confirm" formControlName="confirm" >
+            <small *ngIf="registerForm.errors?.['passWordMismatch']">passwords should match</small>
+            @if(registerForm.controls['confirm'].invalid && (registerForm.controls['confirm'].touched || registerForm.controls['confirm'].dirty)){
+                @if (registerForm.controls['confirm'].errors?.["required"]){
+                    <small>*password required</small>
+                }
+                
+            }
+            
+            <br><br>
+            <button type="submit" class="btn btn-primary" >Register</button>
+            <br><br>
+            <a routerLink="/app-login">already have a account?</a>
+        </div>
+
+    </div>
+</form>

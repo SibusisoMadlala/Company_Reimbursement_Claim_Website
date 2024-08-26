@@ -1,0 +1,272 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color:  #dabcbc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 60%;
+    overflow-y: scroll;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.claims-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    
+    
+}
+
+.claims-table th, .claims-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.claims-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.claims-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
+/* Button Styling */
+.btn {
+    
+    
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.add-btn {
+    background-color: rgba(104, 54, 221, 0.364);
+    color: white;
+    margin-bottom: 10px;
+}
+.search-btn{
+    background-color: rgba(104, 54, 221, 0.364);
+    color: white;
+
+    height: 50%;
+}
+.edit-btn {
+    background-color: #2196F3;
+    color: white;
+}
+
+.delete-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+.save-btn {
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    z-index: 1000; /* Ensure the modal is on top of other elements */
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    width: 450px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative; /* Required for absolute positioning of close button */
+    animation: fadeIn 0.3s ease-in-out; /* Smooth fade-in animation */
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #d9534f; /* Change color on hover */
+}
+
+.modal h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.modal label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+.modal input[type="date"],
+.modal input[type="text"],
+.modal input[type="number"],
+.modal input[type="file"],
+.modal option {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+select{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+  
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 40%;
+    height: 20%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .filter-select {
+    width: 35%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .claims-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .claims-table th, 
+  .claims-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+.modal input[type="file"] {
+    padding: 0;
+}
+
+.btn.save-btn {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+.btn.save-btn:hover {
+    background-color: #218838;
+}
+
+.tab-container {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid hsl(0, 0%, 80%);
+    
+  }
+  small{
+    color: red;
+  }
+  
+  .tablinks {
+    flex: 1;
+    padding: 14px 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color:#dabcbc;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s;
+  }
+  
+  .tablinks:hover {
+    background-color: #597303;
+  }
+  
+  .tablinks.active {
+    background-color: #78844e;
+    
+    font-weight: bold;
+  }
+  
+  .tabcontent {
+    display: none;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .tabcontent.active {
+    display: block;
+  }
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

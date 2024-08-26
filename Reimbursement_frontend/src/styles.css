@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("/assets/83-838362_web-developer.jpg");
+    height: 100vh;
+    
+  }
+
+  /* Height for devices larger than 576px */
+  @media (min-width: 992px) {
+    body {
+      margin-top: -58.59px;
+      
+    }
+  }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
