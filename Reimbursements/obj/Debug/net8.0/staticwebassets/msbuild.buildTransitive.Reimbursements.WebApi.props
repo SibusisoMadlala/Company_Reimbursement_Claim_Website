@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Reimbursements.WebApi.props" />
-</Project>
