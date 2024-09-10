@@ -1,0 +1,15 @@
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\bin\Debug\net8.0\Reimbursements.Business.deps.json
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\bin\Debug\net8.0\Reimbursements.Business.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\bin\Debug\net8.0\Reimbursements.Business.pdb
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\bin\Debug\net8.0\Reimbursements.DataAccess.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\bin\Debug\net8.0\Reimbursements.DataAccess.pdb
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.csproj.AssemblyReference.cache
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimburs.E2F016BC.Up2Date
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\refint\Reimbursements.Business.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\Reimbursements.Business.pdb
+C:\Users\sibusisomadlala\3213854\Reimbursements.Business\obj\Debug\net8.0\ref\Reimbursements.Business.dll

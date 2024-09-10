@@ -1,0 +1,1170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\BankRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\reimbursements.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:reimbursements.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808080424_updatingClaime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808072536_updatingClaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808070654_updatingClaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807130457_updatingMasterDat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807121527_addingMasterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IClaimsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\ClaimsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\ClaimsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\Claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\BookEvents\\WebLayer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Book_Events\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements\\Migrations\\20240806081224_initialUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|c:\\users\\sibusisomadlala\\3213854\\angular_dotnet_project\\project\\project\\sibusiso_madlala_3213854\\reimbursement_backend\\reimbursements\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE7379C8-38E7-453A-AEEE-341898FE2241}|Reimbursements.WebApi.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Services\\ClaimAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\ClaimsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ClaimsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ClaimDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\BankDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Interfaces\\IClaimAppService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\AuthResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240813071800_ClaimApprovals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182416_typeNAme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182943_currencyNAme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\TypesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ReimbursementTypeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\CurrencyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812081754_RefatorClaimDateOnly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ITypesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IBankRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ICurrencyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153322_RefatorClaimDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153124_RefatorClaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserForAuthenticationDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ReimbursementsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\RegitrationResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Mappings\\DomainToDTOmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IClaimsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\CurrencyDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808084837_updatingUserV2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807070602_InitialClaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808075649_updatingClaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808081909_updatingUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807125400_addingMasterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Reimbursements.Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Reimbursements.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ReimbursementsContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwFUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:09:38.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwIQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:08:01.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClaimAppService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Services\\ClaimAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Services\\ClaimAppService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Services\\ClaimAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Services\\ClaimAppService.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAA0wGkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:24:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClaimsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\ClaimsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\ClaimsRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\ClaimsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\ClaimsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:10:07.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\BankRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\BankRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\BankRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\BankRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:47:06.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:33:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:14:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:08:31.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClaimsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ClaimsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\ClaimsDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ClaimsDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\ClaimsDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA4wEIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:56:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "JwtHandler.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\JwtHandler.cs",
+              "RelativeToolTip": "JwtHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:58:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClaimDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ClaimDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\ClaimDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ClaimDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\ClaimDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:24:10.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BankDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\BankDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\BankDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\BankDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\BankDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:03:06.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IClaimAppService.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Interfaces\\IClaimAppService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Interfaces\\IClaimAppService.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Interfaces\\IClaimAppService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Interfaces\\IClaimAppService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:31:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Claim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Claim.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Claim.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Claim.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:39:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:45:29.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:05:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\AuthResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\AuthResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:53:14.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReimbursementType.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementType.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:11:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240813071800_ClaimApprovals.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240813071800_ClaimApprovals.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240813071800_ClaimApprovals.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240813071800_ClaimApprovals.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240813071800_ClaimApprovals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:18:00.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240812182416_typeNAme.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182416_typeNAme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182416_typeNAme.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182416_typeNAme.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182416_typeNAme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:24:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240812182943_currencyNAme.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182943_currencyNAme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182943_currencyNAme.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182943_currencyNAme.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812182943_currencyNAme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:29:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TypesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\TypesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\TypesRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\TypesRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\TypesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:54:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReimbursementTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ReimbursementTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\ReimbursementTypeDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\ReimbursementTypeDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\ReimbursementTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:04:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:53:38.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\CurrencyRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\CurrencyRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Repositories\\CurrencyRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Repositories\\CurrencyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:39:22.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240812081754_RefatorClaimDateOnly.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812081754_RefatorClaimDateOnly.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812081754_RefatorClaimDateOnly.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812081754_RefatorClaimDateOnly.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240812081754_RefatorClaimDateOnly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:17:54.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ITypesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ITypesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\ITypesRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ITypesRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\ITypesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:55:52.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IBankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IBankRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IBankRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IBankRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IBankRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:48:39.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ICurrencyRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\ICurrencyRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\ICurrencyRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\ICurrencyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:40:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240811153322_RefatorClaimDate.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153322_RefatorClaimDate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153322_RefatorClaimDate.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153322_RefatorClaimDate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153322_RefatorClaimDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:33:22.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240811153124_RefatorClaim.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153124_RefatorClaim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153124_RefatorClaim.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153124_RefatorClaim.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240811153124_RefatorClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:31:24.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserForAuthenticationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserForAuthenticationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\UserForAuthenticationDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\UserForAuthenticationDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\UserForAuthenticationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:51:58.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Bank.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Bank.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Bank.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:09:22.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReimbursementsContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ReimbursementsContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\ReimbursementsContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\ReimbursementsContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\ReimbursementsContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:28:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ReimbursementsUser.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementsUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementsUser.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementsUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\ReimbursementsUser.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:29:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RegitrationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\RegitrationResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\RegitrationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\RegitrationResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\RegitrationResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:11:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reimbursements.http",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Reimbursements.http",
+              "RelativeDocumentMoniker": "Reimbursements.http",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Reimbursements.http",
+              "RelativeToolTip": "Reimbursements.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-11T07:06:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DomainToDTOmapping.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Mappings\\DomainToDTOmapping.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Mappings\\DomainToDTOmapping.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Mappings\\DomainToDTOmapping.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Mappings\\DomainToDTOmapping.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:15:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IClaimsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:10:44.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CurrencyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\CurrencyDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\CurrencyDTO.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\DTOs\\CurrencyDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\DTOs\\CurrencyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:03:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240808084837_updatingUserV2.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808084837_updatingUserV2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240808084837_updatingUserV2.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808084837_updatingUserV2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240808084837_updatingUserV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:48:38.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240807070602_InitialClaims.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807070602_InitialClaims.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807070602_InitialClaims.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807070602_InitialClaims.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807070602_InitialClaims.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:06:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240808075649_updatingClaim.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808075649_updatingClaim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808075649_updatingClaim.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808075649_updatingClaim.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808075649_updatingClaim.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:56:49.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240808081909_updatingUser.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808081909_updatingUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240808081909_updatingUser.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240808081909_updatingUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240808081909_updatingUser.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:19:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240806081224_initialUser.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAQwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:29:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240808080424_updatingClaime.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808080424_updatingClaime.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808080424_updatingClaime.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808080424_updatingClaime.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808080424_updatingClaime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:04:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Currency.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Currency.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Context\\Entities\\Currency.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Context\\Entities\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:13:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240808072536_updatingClaim.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808072536_updatingClaim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808072536_updatingClaim.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808072536_updatingClaim.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808072536_updatingClaim.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:25:36.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240808070654_updatingClaim.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808070654_updatingClaim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808070654_updatingClaim.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808070654_updatingClaim.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240808070654_updatingClaim.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:06:55.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240807130457_updatingMasterDat.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807130457_updatingMasterDat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807130457_updatingMasterDat.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807130457_updatingMasterDat.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807130457_updatingMasterDat.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:04:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240807125400_addingMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807125400_addingMasterData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807125400_addingMasterData.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807125400_addingMasterData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807125400_addingMasterData.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:54:00.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240807121527_addingMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807121527_addingMasterData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807121527_addingMasterData.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807121527_addingMasterData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ClaimsDb\\20240807121527_addingMasterData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:15:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:29:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Reimbursements.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Reimbursements.Business.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Reimbursements.Business.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Reimbursements.Business.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Reimbursements.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T08:43:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Reimbursements.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Reimbursements.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Reimbursements.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Reimbursements.DataAccess.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Reimbursements.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:29:19.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.Business\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:43:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClaimsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Interfaces\\IClaimsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:10:28.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClaimsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\ClaimsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Repositories\\ClaimsRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\ClaimsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Repositories\\ClaimsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:09:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:08:59.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAYwLAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:07:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClaimsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\ClaimsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\ClaimsDbContext.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\ClaimsDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\ClaimsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:02:14.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Claims.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\Claims.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\Enitities\\Claims.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\Claims.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\Enitities\\Claims.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:25:20.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T09:45:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240806081224_initialUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.Designer.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\20240806081224_initialUser.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:42:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ReimbursementsContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ReimbursementsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ReimbursementsContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Migrations\\ReimbursementsContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Migrations\\ReimbursementsContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:34:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Book_Events\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Book_Events\\Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Book_Events\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Book_Events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:52:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\BookEvents\\WebLayer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\BookEvents\\WebLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\BookEvents\\WebLayer\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BookEvents\\WebLayer\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:53:34.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T09:45:27.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements.DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:01:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240806081224_initialUser.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements\\Migrations\\20240806081224_initialUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Reimbursements\\Migrations\\20240806081224_initialUser.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Reimbursements\\Migrations\\20240806081224_initialUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Reimbursements\\Migrations\\20240806081224_initialUser.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:12:24.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\Enitities\\User.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\DataAccess\\Context\\Enitities\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAccess\\Context\\Enitities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:08:05.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:05:36.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\3213854\\Angular_DotNet_Project\\project\\project\\Sibusiso_Madlala_3213854\\Reimbursement_Backend\\Reimbursements\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-06T08:04:16.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

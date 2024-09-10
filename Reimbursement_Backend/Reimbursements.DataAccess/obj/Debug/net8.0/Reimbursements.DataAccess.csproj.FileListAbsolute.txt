@@ -1,0 +1,12 @@
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\bin\Debug\net8.0\Reimbursements.DataAccess.deps.json
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\bin\Debug\net8.0\Reimbursements.DataAccess.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\bin\Debug\net8.0\Reimbursements.DataAccess.pdb
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.AssemblyInfo.cs
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\refint\Reimbursements.DataAccess.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.pdb
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\ref\Reimbursements.DataAccess.dll
+C:\Users\sibusisomadlala\3213854\Reimbursements.DataAccess\obj\Debug\net8.0\Reimbursements.DataAccess.csproj.AssemblyReference.cache
